@@ -29,7 +29,7 @@ haunt me
 ```
 
 It is a snippet of a poem I wrote— a tale about yearning, transient moments, and a bittersweet journey of the heart.
-The mad lover in this story, pleads for the beloved to haunt the lover until *then* comes around.
+The mad lover in this story pleads for the beloved to haunt the lover until *then* comes around.
 
 To elucidate the sense of madness, the binary strings on the right side are ten randomized loops of the phrase "haunt me." This part depicts the lover's descent into madness, where the lover is possessed by the ever-consuming force of yearning for the beloved.
 
