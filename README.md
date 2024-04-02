@@ -1,7 +1,7 @@
 # machineYearning
 
 
-machineYearning is an artwork consisting of five words represented in binary that depicts a crazy lover’s visceral yearning for the beloved. machineYearning was created using Python, plotted with AxiDraw.
+machineYearning is an artwork consisting of five words represented in binary that depicts a crazy lover’s visceral yearning for the beloved. machineYearning was created using Python, plotted with a drawing machine Axidraw.
 
 
 This project began as a reflection on my personal journey; a desire to immortalize a deeply cherished memory of the past.
